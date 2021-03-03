@@ -1,5 +1,5 @@
 # ECE342
-Computer Hardware \
+Computer Hardware 
 
 
 **lab1:** guess-the-number game \
