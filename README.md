@@ -1,6 +1,6 @@
 # ECE342
 Computer Hardware \
-\
+
 
 **lab1:** guess-the-number game \
 **lab2:** Multipliers (Carry Save Multiplier & Wallace Tree Multiplier) \
